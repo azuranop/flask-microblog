@@ -1,0 +1,12 @@
+[2018-07-22 18:54:45.825] [exthost1] [info] extension host started
+[2018-07-22 18:54:45.849] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-07-22 18:54:45.849] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/debug-auto-launch/out/extension
+[2018-07-22 18:54:45.863] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-07-22 18:54:45.863] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/emmet/out/extension
+[2018-07-22 18:54:45.946] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-07-22 18:54:45.946] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/git/out/main
+[2018-07-22 18:54:46.221] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-07-22 18:54:46.221] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/merge-conflict/out/extension
+[2018-07-22 18:54:46.240] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-07-22 18:54:46.241] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code-insiders/resources/app/extensions/search-rg/out/extension
+[2018-07-22 18:54:46.269] [exthost1] [info] eager extensions activated
