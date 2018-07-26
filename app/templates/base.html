@@ -12,11 +12,21 @@
 </head>
 
 <body>
-    <dir>Microblog:
+    <div>Microblog:
         <a href="/index">Home</a>
         <a href="/login">Login</a>
-    </dir>
-    <hr> {% block content %}{% endblock %}
+    </div>
+    <hr> 
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+    <ul>
+        {% for message in messasges %}
+        <li>{{ message }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    {% endwith %}
+    {% block content %}{% endblock %}
 
 </body>
 
